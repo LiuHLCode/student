@@ -5,5 +5,8 @@
 .tds{
     vertical-align: center;
 }
-
-
+.hi{
+    position: absolute;
+    right: 0;
+    width: 30px;
+}
