@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/prevention?serverTimezone=GMT%2B8&useSSL=true
+    url: jdbc:mysql://175.178.160.50:3306/student?serverTimezone=GMT%2B8&useSSL=true
     username: root
-    password: "123456"
+    password: Liu18365432303.
   thymeleaf:
     cache: false # 去除缓存
     suffix: .html
